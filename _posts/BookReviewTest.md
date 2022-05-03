@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bookreview
+---
+
 This is a test as well.
 
 Hello hello. 
